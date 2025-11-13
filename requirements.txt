@@ -1,0 +1,25 @@
+# Core data manipulation and numerical computing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Statistical analysis and time series modeling
+statsmodels>=0.14.0
+scipy>=1.11.0
+
+# Machine learning utilities
+scikit-learn>=1.3.0
+
+# Structural break detection
+ruptures>=1.1.8
+
+# Jupyter environment
+jupyter>=1.0.0
+ipython>=8.12.0
+
+# Optional: for interactive dashboards (not required)
+# streamlit>=1.28.0
