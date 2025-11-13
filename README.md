@@ -67,10 +67,3 @@ __pycache__/
 
 - Si certains CSV sont volumineux et doivent rester privés, envisage de ne pas les committer et de les stocker ailleurs (ex : stockage cloud) et d'ajouter des scripts d'import.
 
-## Licence
-
-Ajoute ici la licence que tu souhaites (MIT, CC-BY, etc.) ou supprime cette section si non nécessaire.
-
-## Contact
-
-Si tu veux que j'améliore le notebook (tests, modélisation ARIMA/Prophet, README plus détaillé), dis-moi ce que tu veux explorer en priorité.
